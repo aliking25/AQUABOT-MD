@@ -1,7 +1,7 @@
 {
-  "name": "Aquabot-MD",
+  "name": "ALI_King",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "aliking happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "type": "commonjs",
   "scripts": {
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
   "author": "sanuwa official",
-  "developer": "sanuwa",
+  "developer": "Ali_King",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
